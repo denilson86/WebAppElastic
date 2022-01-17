@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAppElastic</name>
+    </assembly>
+    <members>
+        <member name="M:WebAppElastic.Controllers.LoginController.LoInformation(WebAppElastic.Models.LoggerRequest)">
+            <summary>
+            Log Information register
+            </summary>
+            <param name="logInformation"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppElastic.Controllers.LoginController.LogWarning(WebAppElastic.Models.LoggerRequest)">
+            <summary>
+            Log Warning register
+            </summary>
+            <param name="logWarning"></param>
+            <returns></returns>
+        </member>
+        <member name="M:WebAppElastic.Controllers.LoginController.LogError(WebAppElastic.Models.LoggerRequest)">
+            <summary>
+            Log Error register
+            </summary>
+            <param name="logError"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
