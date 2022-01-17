@@ -43,7 +43,7 @@ namespace WebAppElastic
                         Contact = new OpenApiContact
                         {
                             Name = "Denilson Arias",
-                            Url = new Uri("https://github.com/denilson86"),
+                            Url = new Uri("https://github.com/denilson86/WebAppElastic"),
                         }
                     });
             });
